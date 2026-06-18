@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amandgrf-dezazig.github.io/visionkaiyun-com-cn/sitemap.xml
